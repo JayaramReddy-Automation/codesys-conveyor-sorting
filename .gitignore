@@ -1,0 +1,8 @@
+# CODESYS build and user files (generated, not source)
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+*.opt
+*.~u
+*.bak
